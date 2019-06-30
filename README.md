@@ -75,25 +75,65 @@ Some more list which may not included in above link is at here:
 
 
 Below is a list of the most important CIA cyber-weapons released by WikiLeaks as part of the Vault 7 series.
+<table>
+<ul>
 <a href=https://www.bleepingcomputer.com/news/hardware/wikileaks-claims-cia-could-turn-samsung-smart-tvs-into-listening-devices/>Weeping Angel</a> - tool to hack Samsung smart TVs
-ᗙ Fine Dining - a collection of fake, malware-laced apps
-ᗙ Grasshopper - a builder for Windows malware
-ᗙ DarkSeaSkies - tools for hacking iPhones and Macs
-ᗙ Scribble - beaconing system for Office documents
-ᗙ Archimedes - a tool for performing MitM attacks
-ᗙ AfterMidnight and Assassin - malware frameworks for Windows
-ᗙ Athena - a malware framework co-developed with a US company
-ᗙ Pandemic - a tool for replacing legitimate files with malware
-ᗙ CherryBlossom - a tool for hacking SOHO WiFi routers
-ᗙ Brutal Kangaroo - a tool for hacking air-gapped networks
-ᗙ ELSA - malware for geo-tracking Windows users
-ᗙ OutlawCountry - CIA tool for hacking Linux systems
-ᗙ BothanSpy & Gyrfalcon - CIA malware for stealing SSH logins
-ᗙ HighRise - Android app for intercepting & redirecting SMS data
-ᗙ Achilles, Aeris, & SeaPea - tools for hacking Mac & POSIX systems
-ᗙ Dumbo - tool to disable webcams and microphones
-ᗙ CouchPotato - tool to capture remote video streams
-ᗙ Angelfire - malware framework for hacking Windows PCs
+</ul>
+<ul>
+<a hhref=https://www.bleepingcomputer.com/news/security/vault-7-cia-developed-24-decoy-applications-to-spy-on-targets/>Fine Dining </a> - a collection of fake, malware-laced apps
+
+</ul>
+<ul>
+<a href=https://www.bleepingcomputer.com/news/security/wikileaks-reveals-grasshopper-cias-builder-for-windows-malware/>Grasshopper</a> - a builder for Windows malware
+</ul>
+<ul>
+<a href=https://www.bleepingcomputer.com/news/government/new-wikileaks-dump-provides-details-on-cias-mac-and-iphone-hacking-tools/>DarkSeaSkies</a> - tools for hacking iPhones and Macs
+</ul>
+<ul>
+<a href=https://www.bleepingcomputer.com/news/gaming/wikileaks-publishes-cia-anti-whistleblowers-tool-for-microsoft-office-documents/>Scribble </a>- beaconing system for Office documents
+</ul>
+<ul>
+<a href=https://www.bleepingcomputer.com/news/security/wikileaks-dump-reveals-cia-tool-for-mitm-attacks/>Archimedes</a> - a tool for performing MitM attacks
+</ul>
+<ul>
+<a href=https://www.bleepingcomputer.com/news/security/wikileaks-dump-reveals-cia-malware-that-can-sabotage-user-software/>AfterMidnight and Assassin</a> - malware frameworks for Windows
+</ul>
+<ul>
+<a href=https://www.bleepingcomputer.com/news/security/vault-7-cia-co-developed-athena-malware-with-us-cyber-security-company/>Athena </a>- a malware framework co-developed with a US company
+</ul>
+<ul>
+<a href=https://www.bleepingcomputer.com/news/security/cia-malware-can-switch-clean-files-with-malware-when-you-download-them-via-smb/>Pandemic </a>- a tool for replacing legitimate files with malware
+</ul>
+<ul>
+<a href=https://www.bleepingcomputer.com/news/security/cia-created-toolkit-for-hacking-hundreds-of-routers-models/> CherryBlossom </a> - a tool for hacking SOHO WiFi routers
+</ul>
+<ul>
+<a href=https://www.bleepingcomputer.com/news/security/vault-7-cia-has-malware-for-hacking-air-gapped-networks-via-usb-thumb-drives/>Brutal Kangaroo </a>- a tool for hacking air-gapped networks
+</ul>
+<ul>
+<a href=https://www.bleepingcomputer.com/news/security/vault-7-cia-malware-for-tracking-windows-devices-via-wifi-networks/> ELSA </a>- malware for geo-tracking Windows users
+</ul>
+<ul>
+<a href=https://www.bleepingcomputer.com/news/security/outlawcountry-is-cias-malware-for-hacking-linux-systems/> OutlawCountry <a/>- CIA tool for hacking Linux systems
+</ul>
+<ul>
+<a href=https://www.bleepingcomputer.com/news/security/cia-malware-can-steal-ssh-credentials-session-traffic/>BothanSpy & Gyrfalcon </a>- CIA malware for stealing SSH logins
+</ul>
+<ul>
+<a href=https://www.bleepingcomputer.com/news/security/vault-7-cia-developed-android-malware-that-works-as-an-sms-proxy/>HighRise </a> - Android app for intercepting & redirecting SMS data
+</ul>
+<ul>
+<a href=https://www.bleepingcomputer.com/news/security/achilles-aeris-and-seapea-are-3-cia-tools-for-hacking-mac-and-posix-systems/> Achilles, Aeris, & SeaPea </a>- tools for hacking Mac & POSIX systems
+</ul>
+<ul>
+<a href=https://www.bleepingcomputer.com/news/security/vault-7-cia-tool-can-shut-down-webcams-and-corrupt-video-recordings/>Dumbo </a>- tool to disable webcams and microphones
+</ul>
+<ul>
+<a href=https://www.bleepingcomputer.com/news/security/vault-7-wikileaks-divulges-cia-tool-for-capturing-rtsp-and-h-264-video-streams/> CouchPotato </a> - tool to capture remote video streams
+</ul>
+<ul>
+<a href=https://www.bleepingcomputer.com/news/security/cia-developed-windows-malware-that-alters-boot-sector-to-load-more-malware/>Angelfire </a> - malware framework for hacking Windows PCs
+</ul>
 
 
 ======================================================
