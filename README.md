@@ -75,7 +75,7 @@ Some more list which may not included in above link is at here:
 
 
 Below is a list of the most important CIA cyber-weapons released by WikiLeaks as part of the Vault 7 series.
-ᗙ Weeping Angel (https://www.bleepingcomputer.com/news/hardware/wikileaks-claims-cia-could-turn-samsung-smart-tvs-into-listening-devices/)- tool to hack Samsung smart TVs
+ᗙ [Weeping Angel] (https://www.bleepingcomputer.com/news/hardware/wikileaks-claims-cia-could-turn-samsung-smart-tvs-into-listening-devices/)- tool to hack Samsung smart TVs
 ᗙ Fine Dining - a collection of fake, malware-laced apps
 ᗙ Grasshopper - a builder for Windows malware
 ᗙ DarkSeaSkies - tools for hacking iPhones and Macs
