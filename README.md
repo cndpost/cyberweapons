@@ -10,3 +10,6 @@ Organization of this repo
 
 Hive  - Downloaded from wikileaks.org and supposedly to be an infrastrure framework used by CIA for infiltration.
 
+Routersploit - How to control someone's home router and make it as a spy device
+        Instruction downloaded from https://null-byte.wonderhowto.com/how-to/seize-control-router-with-routersploit-0177774/
+        Source code downloaded from https://github.com/threat9/routersploit
