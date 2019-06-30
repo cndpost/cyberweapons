@@ -10,9 +10,7 @@ Organization of this repo
 ================================================================================
 
 
-Hive  - Downloaded from wikileaks.org and supposedly to be an infrastrure framework used by CIA for infiltration.
-      
-      Source code collected at my repo  <a href=https://github.com/cndpost/hive>Hive</a>
+Hive  - Downloaded from wikileaks.org and supposedly to be an infrastrure framework used by CIA for infiltration. Source code collected at my repo  <a href=https://github.com/cndpost/hive>Hive</a>
 
 
 Hive 
