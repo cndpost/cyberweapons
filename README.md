@@ -80,8 +80,7 @@ Below is a list of the most important CIA cyber-weapons released by WikiLeaks as
 <a href=https://www.bleepingcomputer.com/news/hardware/wikileaks-claims-cia-could-turn-samsung-smart-tvs-into-listening-devices/>Weeping Angel</a> - tool to hack Samsung smart TVs
 </ul>
 <ul>
-<a hhref=https://www.bleepingcomputer.com/news/security/vault-7-cia-developed-24-decoy-applications-to-spy-on-targets/>Fine Dining </a> - a collection of fake, malware-laced apps
-
+<a href=https://www.bleepingcomputer.com/news/security/vault-7-cia-developed-24-decoy-applications-to-spy-on-targets/>Fine Dining </a> - a collection of fake, malware-laced apps
 </ul>
 <ul>
 <a href=https://www.bleepingcomputer.com/news/security/wikileaks-reveals-grasshopper-cias-builder-for-windows-malware/>Grasshopper</a> - a builder for Windows malware
