@@ -38,9 +38,8 @@ CIA-Hacking-Tools/Hive  (https://github.com/cndpost/CIA-Hacking-Tools/tree/maste
 ====================================================================
 
 
-Routersploit - How to control someone's home router and make it as a spy device
-      
-        Source code colleted at my repo at <a href=https://github.com/cndpost/routersploit>Routersploit</a>
+Routersploit - How to control someone's home router and make it as a spy device. 
+                    Source code colleted at my repo at <a href=https://github.com/cndpost/routersploit>Routersploit</a>
 
         Instruction downloaded from :
         
