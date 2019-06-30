@@ -68,7 +68,33 @@ Other CIA Hacking Tools collected:
 
    https://github.com/cndpost/CIA-Hacking-Tools
 
-   
+
+Some more list which may not included in above link is at here:
+(source:  https://www.bleepingcomputer.com/news/government/wikileaks-releases-source-code-of-cia-cyber-weapon/)
+
+
+
+Below is a list of the most important CIA cyber-weapons released by WikiLeaks as part of the Vault 7 series.
+ᗙ Weeping Angel (https://www.bleepingcomputer.com/news/hardware/wikileaks-claims-cia-could-turn-samsung-smart-tvs-into-listening-devices/)- tool to hack Samsung smart TVs
+ᗙ Fine Dining - a collection of fake, malware-laced apps
+ᗙ Grasshopper - a builder for Windows malware
+ᗙ DarkSeaSkies - tools for hacking iPhones and Macs
+ᗙ Scribble - beaconing system for Office documents
+ᗙ Archimedes - a tool for performing MitM attacks
+ᗙ AfterMidnight and Assassin - malware frameworks for Windows
+ᗙ Athena - a malware framework co-developed with a US company
+ᗙ Pandemic - a tool for replacing legitimate files with malware
+ᗙ CherryBlossom - a tool for hacking SOHO WiFi routers
+ᗙ Brutal Kangaroo - a tool for hacking air-gapped networks
+ᗙ ELSA - malware for geo-tracking Windows users
+ᗙ OutlawCountry - CIA tool for hacking Linux systems
+ᗙ BothanSpy & Gyrfalcon - CIA malware for stealing SSH logins
+ᗙ HighRise - Android app for intercepting & redirecting SMS data
+ᗙ Achilles, Aeris, & SeaPea - tools for hacking Mac & POSIX systems
+ᗙ Dumbo - tool to disable webcams and microphones
+ᗙ CouchPotato - tool to capture remote video streams
+ᗙ Angelfire - malware framework for hacking Windows PCs
+
 
 ======================================================
 
